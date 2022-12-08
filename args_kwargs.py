@@ -23,6 +23,6 @@ def sum_to(**kwargs):
 
 print(sum_to(coffee=2.99, cake=4.55, juice=2.99))
 
-num = 30
-for x in num:
-    print(num)
+# num = 30
+# for x in num:
+#     print(num)
