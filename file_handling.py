@@ -20,4 +20,10 @@ with open('test.txt', mode='r') as file:
     data = file.readline()
     print(data)
 
+list = [1,2,3,4]
+
+# list[4] = 5
+
+list.insert(0,0)
+
 
