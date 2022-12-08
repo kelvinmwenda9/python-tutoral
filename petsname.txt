@@ -1,0 +1,6 @@
+Cat
+dog
+mouse
+chicken
+goat
+cow
